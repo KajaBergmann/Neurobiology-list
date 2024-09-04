@@ -18,13 +18,13 @@ body, html {
 
 .clickable-area {
     position: absolute;
-    border: 2px solid lightslategray;
+    border: 5px solid rgb(216, 107, 44);
     cursor: pointer;
 }
 
 .area1 {
     top: 2%; /* Adjust these values to position the first rectangle */
-    left: 2%; /* Adjust these values to position the first rectangle */
+    left: 1%; /* Adjust these values to position the first rectangle */
     width: 95%;
     height: 10%;
 }
