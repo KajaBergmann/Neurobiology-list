@@ -23,24 +23,24 @@ body, html {
 }
 
 .area1 {
-    top: 35%; /* Adjust these values to position the first rectangle */
-    left: 42%; /* Adjust these values to position the first rectangle */
-    width: 15%;
+    top: 2%; /* Adjust these values to position the first rectangle */
+    left: 2%; /* Adjust these values to position the first rectangle */
+    width: 95%;
     height: 10%;
 }
 
 .area2 {
-    top: 0%; /* Adjust these values to position the second rectangle */
-    left: 58%; /* Adjust these values to position the second rectangle */
-    width: 35%;
-    height: 51%;
+    top: 10%; /* Adjust these values to position the second rectangle */
+    left: 2%; /* Adjust these values to position the second rectangle */
+    width: 95%;
+    height: 10%;
 }
 
 .area3 {
-    top: 51%; /* Adjust these values to position the second rectangle */
-    left: 58%; /* Adjust these values to position the second rectangle */
-    width: 35%;
-    height: 49%;
+    top: 25%; /* Adjust these values to position the second rectangle */
+    left: 2%; /* Adjust these values to position the second rectangle */
+    width: 95%;
+    height: 10%;
 }
 
 .area4 {
