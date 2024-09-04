@@ -23,21 +23,21 @@ body, html {
 }
 
 .area1 {
-    top: 5%; /* Adjust these values to position the first rectangle */
-    left: 4%; /* Adjust these values to position the first rectangle */
-    width: 92%;
+    top: 6%; /* Adjust these values to position the first rectangle */
+    left: 20%; /* Adjust these values to position the first rectangle */
+    width: 60%;
     height: 11%;
 }
 
 .area2 {
-    top: 20%; /* Adjust these values to position the second rectangle */
-    left: 4%; /* Adjust these values to position the second rectangle */
-    width: 92%;
+    top: 21%; /* Adjust these values to position the second rectangle */
+    left: 20%; /* Adjust these values to position the second rectangle */
+    width: 60%;
     height: 11%;
 }
 
 .area3 {
-    top: 35%; /* Adjust these values to position the second rectangle */
+    top: 36%; /* Adjust these values to position the second rectangle */
     left: 4%; /* Adjust these values to position the second rectangle */
     width: 92%;
     height: 11%;
@@ -51,7 +51,7 @@ body, html {
 }
 
 .area5 {
-    top: 67%; /* Adjust these values to position the second rectangle */
+    top: 66%; /* Adjust these values to position the second rectangle */
     left: 4%; /* Adjust these values to position the second rectangle */
     width: 92%;
     height: 11%;
